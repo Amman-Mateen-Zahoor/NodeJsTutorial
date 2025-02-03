@@ -1,0 +1,27 @@
+{
+  "name": "nodejspracticeprojects",
+  "version": "1.0.0",
+  "description": "This Is My First PAckage.json File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amman-Mateen-Zahoor/NodeJsTutorial.git"
+  },
+  "keywords": [
+    "Amman",
+    "Mateen"
+  ],
+  "author": "Amman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amman-Mateen-Zahoor/NodeJsTutorial/issues"
+  },
+  "homepage": "https://github.com/Amman-Mateen-Zahoor/NodeJsTutorial#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "express": "^4.21.2"
+  }
+}
